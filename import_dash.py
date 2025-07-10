@@ -5,6 +5,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
+# Utilized Co-Pilot to Build and Generate Progress
 # Mock Data - Simulates data scraped from parts.cat.com
 # In a real application, this data would be fetched from a backend API
 # that handles the actual web scraping or database queries.
